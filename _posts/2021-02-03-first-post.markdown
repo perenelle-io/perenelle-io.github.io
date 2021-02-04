@@ -10,4 +10,5 @@ Hello, I'm a Software Engineer from SF.
 In my free time for code recently, I've mostly been excited about systems programming, smart contracts, and computer graphics.
 
 rust - https://www.rust-lang.org/
+
 zig - https://ziglang.org/
