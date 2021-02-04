@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![perenell]({{site.url}}/assets/images/Flamel_Perenelle.png)
+![perenell](/assets/images/Flamel_Perenelle.png)
